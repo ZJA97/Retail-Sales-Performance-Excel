@@ -2,7 +2,7 @@
 
 An end-to-end Excel analysis of almost 10,000 rows of US retail sales data. The raw data was cleaned and enriched using Excel Tables and calculated columns, summarised with Pivot Tables and Pivot Charts, and brought together in an interactive dashboard with slicers.
 
-![Dashboard overview showing total sales, total profit, profit margin and the monthly sales trend](images/Overview.JPG)
+![Dashboard overview showing total sales, total profit, profit margin and the monthly sales trend](Overview.JPG)
 
 ## Key results
 
